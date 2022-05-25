@@ -5,8 +5,8 @@ Banco MongoDB +
 Front-end
 
 Frameworks:
-Tailwind
-axios
+Tailwind,
+Axios,
 Vue
 
 
